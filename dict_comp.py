@@ -8,4 +8,4 @@ list_capital = ['Abuja', 'Akra','Yaunde', 'Lome', 'Cairo', 'Nairobi']
 
 
 def country_cap(country, capital):
-    return {country[i]: capital[i] for i in range(len(country)) }
+    return {country[i]: capital[i] for i in range(len(country))}
