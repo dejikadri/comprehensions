@@ -1,3 +1,3 @@
 # comprehensions
 
-Showcase List, set and dictionary comprehensions using practical examples
+Showcase List, Set and Dictionary comprehensions using practical examples
