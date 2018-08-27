@@ -1,5 +1,5 @@
 """
-This program uses a dictionary comprehension to turn 2 lists of countrie and captials
+This program uses a dictionary comprehension to turn 2 lists of countries and captials
 into a dictionary with countries as keys and the capitals as values
 """
 
